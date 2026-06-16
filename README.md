@@ -7,7 +7,7 @@ I focus on deployed AI workflow systems: agents, tool integrations, async backen
 ## Current Focus
 
 - Langdock custom integrations for customized internal AI workflows with Langdock being our core internal AI platform
-- Streamlit for fast prototypes that can be deployed and used by and iterated with internal teams, starting with interview agents
-- React and TypeScript for production agentic solutions to client and internal problems, starting with sourcing agents 
-- Existing and custom MCP servers, FastAPI backends, and enterprise API integrations
+- Streamlit for fast prototypes used by internal teams to iterate quickly, e.g. interview analysis agents
+- React and TypeScript for production agentic solutions to client and internal problems, e.g. talent sourcing agents 
+- Existing and custom MCP servers, FastAPI backends, and enterprise API integrations, e.g. HubSpot and Microsoft 365
 - Deep observability and proper eval pipelines with platforms such as Langfuse that help continuously improve our AI platform and agentic solutions
