@@ -1,6 +1,6 @@
 # Simon Han
 
-Associate Consultant at undconsorten, building at the intersection of AI systems, consulting workflows, and enterprise integration.
+Senior Associate Consultant at undconsorten, building at the intersection of AI systems, consulting workflows, and enterprise integration.
 
 I focus on deployed AI workflow systems: agents, tool integrations, async backends, Langdock custom actions, Railway deployments, and human-in-the-loop processes for internal and external client operations.
 
